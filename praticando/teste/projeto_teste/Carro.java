@@ -1,4 +1,4 @@
-package br.com.json;
+package org.json;
 
 public class Carro {
     private Long id;
